@@ -1,0 +1,21 @@
+{
+    "output" : "../generate",
+    "modules" : [
+        {
+            "modname" : "express",
+            "initcode" : "module();",
+            "classname" : "Express",
+            "annotation" : "",
+            "excepts" : [],
+            "paramlen" : 10
+        },
+        {
+            "modname" : "firebase-functions",
+            "initcode" : "",
+            "classname" : "Functions",
+            "annotation" : "",
+            "excepts" : [],
+            "paramlen" : 10
+        }
+    ]
+}
